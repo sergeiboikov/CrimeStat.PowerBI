@@ -1,2 +1,2 @@
 # CrimeStat.PowerBI
-PowerBI visualization for the CrimeStat project
+PowerBI visualization for world crime statistic analysis
